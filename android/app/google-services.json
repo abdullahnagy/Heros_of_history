@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "630971221311",
+    "project_id": "heros-of-history",
+    "storage_bucket": "heros-of-history.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630971221311:android:0bf542b39c142e32783f8a",
+        "android_client_info": {
+          "package_name": "com.example.heross"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDX9V_pu-wxXv45r9DYv3NECncJ8S_ru0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

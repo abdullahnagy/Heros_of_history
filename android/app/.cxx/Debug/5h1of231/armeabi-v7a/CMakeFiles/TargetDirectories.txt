@@ -1,0 +1,2 @@
+C:/Users/legion/StudioProjects/heross/android/app/.cxx/Debug/5h1of231/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/legion/StudioProjects/heross/android/app/.cxx/Debug/5h1of231/armeabi-v7a/CMakeFiles/rebuild_cache.dir
