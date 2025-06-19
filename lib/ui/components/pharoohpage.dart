@@ -49,7 +49,7 @@ class pharohPage extends StatelessWidget {
             Expanded(
               child: Row(
                 children: [
-                  Expanded(child: _buildCard(context, "khufu", "assets/images/khofff.png", KhufuPage())),
+                  Expanded(child: _buildCard(context, "khufu", "assets/images/khofff.png",  KhufuPage())),
                   Expanded(child: _buildCard(context, "akhenaten", "assets/images/akhenaton.png", AkhenatenPage())),
                   Expanded(child: _buildCard(context, "Narmer", "assets/images/narmar.png", NarmerPage())),
                 ],

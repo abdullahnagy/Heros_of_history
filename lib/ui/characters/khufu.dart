@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:heross/ui/chat/chatscreen.dart';
 
 class KhufuPage extends StatelessWidget {
   static const String routeName = "khufu";
@@ -74,7 +75,30 @@ class KhufuPage extends StatelessWidget {
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                Expanded(child: _buildButton(context, "Chat", Color(0xffEAEACF), chatPage())),
+
+
+
+
+
+                Expanded(child: _buildButton(context, "Chat", Color(0xffEAEACF), ChatBotPage()),
+
+
+
+
+                ),
+
+
+
+
+
+
+
+
+
+
+
+
+
                 const SizedBox(width: 10),
                 Expanded(child: _buildButton(context, "Quiz", Color(0xffEAEACF), quizPage())),
               ],
